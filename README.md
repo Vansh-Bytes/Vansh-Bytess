@@ -1,3 +1,4 @@
+![Uploading bahroo-hacker.gif…]()
 ![github-header-image](https://github.com/user-attachments/assets/0127ea34-8543-44b7-9af6-20b3e29f85be)
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <h3 align="center">Developer | Creator | Open Source Contributor</h3>
