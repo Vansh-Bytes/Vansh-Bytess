@@ -2,7 +2,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/0127ea34-8543-44b7-9af6-20b3e29f85be)
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <h3 align="center">Developer | Creator | Open Source Contributor</h3>
-<img align="right" alt="coding" width=300 boder-radius=10 src="paste your own link">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-bytes" alt="vansh-bytes" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nobody_infinite" target="blank"><img src="https://img.shields.io/twitter/follow/nobody_infinite?logo=twitter&style=for-the-badge" alt="nobody_infinite" /></a> </p>
@@ -12,7 +12,7 @@
 - 📫 How to reach me **vishvansh32@gmail.com**
 
 - ⚡ Fun fact **I once wrote a program to automatically generate my README files… and then I had to write a README for the program!**
-
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nobody_infinite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nobody_infinite" height="30" width="40" /></a>
